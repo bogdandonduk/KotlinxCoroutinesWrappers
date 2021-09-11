@@ -1,0 +1,3 @@
+rootProject.name = "KotlinxCoroutinesWrappers"
+include ':app'
+include ':KotlinxCoroutinesWrappersAndroidLibrary'
